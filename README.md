@@ -20,4 +20,4 @@
 ### 3. Run test
 Exuecute the following command
 **npx playwright test**
-Watch as Playriwght executes the placehodler test (terminal indicates that 1 test was executed succesfully)
+> Watch as Playriwght executes the placehodler test (terminal indicates that 1 test was executed succesfully)
