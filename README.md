@@ -6,6 +6,7 @@
 1. Click **[Open with GitHub Desktop]** button
 1. Choose local path to store the repository on your local machine
 1. Click the **[Clone]** button
+2. Choose the second option "For my own puproses" when asked
 ### 2. Invite Colaborators (Reviewers)
 1. Open Settings > manage Access tab
 2. Add the following persons as reviewers (list provided during workshop)
